@@ -30,8 +30,7 @@ const Navbar = () => {
       <nav className="navbar">
         <div className="navbar-container">
           <Link to="/" className="navbar-logo" onClick={closeMobileMenu}>
-            Molly
-            <i className="fa-solid fa-heart" />
+            ✦ KAP ✦
           </Link>
           <div className="menu-icon" onClick={handleClick}>
             <i className={click ? "fas fa-times" : "fas fa-bars"} />
@@ -39,7 +38,7 @@ const Navbar = () => {
           <ul className={click ? "nav-menu active" : "nav-menu"}>
             <li className="nav-item">
               <Link to="/" className="nav-links" onClick={closeMobileMenu}>
-                Home
+                Página Inicial
               </Link>
             </li>
             <li className="nav-item">
@@ -48,7 +47,7 @@ const Navbar = () => {
                 className="nav-links"
                 onClick={closeMobileMenu}
               >
-                Services
+                Serviços
               </Link>
             </li>
             <li className="nav-item">
@@ -57,7 +56,7 @@ const Navbar = () => {
                 className="nav-links"
                 onClick={closeMobileMenu}
               >
-                Products
+                Produtos
               </Link>
             </li>
 
@@ -71,7 +70,7 @@ const Navbar = () => {
               </Link>
             </li>
           </ul>
-          {button && <Button buttonStyle="btn--outline">SIGN UP</Button>}
+          {button && <Button buttonStyle="btn--outline">Inscreva-se</Button>}
         </div>
       </nav>
     </>
