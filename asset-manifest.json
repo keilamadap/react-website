@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/keilamadap/react-website.git/static/css/main.9c7c7e0d.css",
-    "main.js": "/keilamadap/react-website.git/static/js/main.4597674c.js",
-    "static/media/ponta_negra.jpg": "/keilamadap/react-website.git/static/media/ponta_negra.d46c862037fae70fa1c3.jpg",
-    "static/media/natal_background.jpg": "/keilamadap/react-website.git/static/media/natal_background.7fcd51b571204c105953.jpg",
-    "static/media/verao.jpg": "/keilamadap/react-website.git/static/media/verao.771685e0a32bec4cf861.jpg",
-    "static/media/Guia-de-Natal.jpg": "/keilamadap/react-website.git/static/media/Guia-de-Natal.6da8f2ef914fc72d1ffb.jpg",
-    "index.html": "/keilamadap/react-website.git/index.html",
-    "main.9c7c7e0d.css.map": "/keilamadap/react-website.git/static/css/main.9c7c7e0d.css.map",
-    "main.4597674c.js.map": "/keilamadap/react-website.git/static/js/main.4597674c.js.map"
+    "main.css": "/react-website.git/static/css/main.707416c5.css",
+    "main.js": "/react-website.git/static/js/main.99527303.js",
+    "static/media/ponta_negra.jpg": "/react-website.git/static/media/ponta_negra.d46c862037fae70fa1c3.jpg",
+    "static/media/natal_background.jpg": "/react-website.git/static/media/natal_background.7fcd51b571204c105953.jpg",
+    "static/media/verao.jpg": "/react-website.git/static/media/verao.771685e0a32bec4cf861.jpg",
+    "static/media/Guia-de-Natal.jpg": "/react-website.git/static/media/Guia-de-Natal.6da8f2ef914fc72d1ffb.jpg",
+    "index.html": "/react-website.git/index.html",
+    "main.707416c5.css.map": "/react-website.git/static/css/main.707416c5.css.map",
+    "main.99527303.js.map": "/react-website.git/static/js/main.99527303.js.map"
   },
   "entrypoints": [
-    "static/css/main.9c7c7e0d.css",
-    "static/js/main.4597674c.js"
+    "static/css/main.707416c5.css",
+    "static/js/main.99527303.js"
   ]
 }
