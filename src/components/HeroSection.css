@@ -7,7 +7,7 @@ video {
 }
 
 .hero-container{
-    background: url('../../public/images/img-home.jpg') center center/cover no-repeat;
+    background: url('../../public/images/Guia-de-Natal.jpg') center center/cover no-repeat;
     height: 100vh;
     width: 100%;
     display: flex;
@@ -18,8 +18,12 @@ video {
     object-fit: contain;
 }
 .hero-container > h1{
-    color: #fff;
-    font-size: 100px;
+    color: rgb(235, 232, 232);
+    font-size: 88px;
+    background-color: rgba(255, 255, 255, 0.137);
+    border-radius: 20px;
+    padding: 10px 20px;
+    text-shadow: 1px 1px 1px black;
     margin-top: -100px;
     text-align: center;
 }
@@ -27,6 +31,7 @@ video {
     margin-top: 8px;
     font-size: 32px;
     color: #fff;
+    text-shadow: 1px 1px 2px black;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 .hero-btns{
